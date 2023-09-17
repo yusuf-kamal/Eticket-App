@@ -1,0 +1,72 @@
+﻿@model IEnumerable<Producer>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>All Producer </h1>
+
+
+@if (Model.Count() > 0)
+{
+    <table class="table table-striped table-hover mt-5">
+        <thead>
+            <tr>
+                <th scope="col">@Html.DisplayNameFor(a=>a.ProfilePictureUrl)</th>
+                <th scope="col">@Html.DisplayNameFor(a=>a.FullName)</th>
+                <th scope="col">@Html.DisplayNameFor(a=>a.Bio)</th>
+                @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                {
+                <th scope="col">Details</th>
+                <th scope="col">Update</th>
+                <th scope="col">Delete</th>
+                }
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td class="align-middle">
+
+                        <img src="~/Images/@item.ProfilePictureUrl" class="w-25 rounded-circle" />
+
+                       </td>
+
+                    <td class="align-middle">@item.FullName </td>
+                    <td class="align-middle">@item.Bio</td>
+
+                    @if (User.Identity.IsAuthenticated && User.IsInRole("Admin"))
+                    {
+                    <td class="align-middle">
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-warning">
+                            <i class="fas fa-eye"></i> Details
+                        </a>
+
+                    </td>
+
+                    <td class="align-middle">
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-success">
+                            <i class="fas fa-edit"></i> Update
+                        </a>
+                    </td>
+                    <td class="align-middle">
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">
+                            <i class="fas fa-trash"></i> Delete
+                        </a>
+                    </td>
+                    }
+                </tr>
+
+            }
+        </tbody>
+    </table>
+
+    <partial name="_AddButtonPartialView" model="@Model.ToString()" />
+
+}
+else
+{
+    <div class="mt-4 alert alert-warning">
+        <h3> There's No Employee!!</h3>
+    </div>
+}

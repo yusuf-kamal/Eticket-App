@@ -1,0 +1,30 @@
+﻿@model IdentityRole
+@{
+    ViewData["Title"] = "Create";
+}
+
+<br />
+<br />
+<h1>Add New Actor</h1>
+
+<br />
+<br />
+
+
+<form asp-action="Create" enctype="multipart/form-data">
+
+
+
+   
+
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input asp-for="Name" class="form-control" aria-describedby="emailHelp">
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    
+    <input type="submit" value="Create"class="btn btn-primary" />
+    <a asp-action="Index" class="btn btn-light">Back To List</a>
+</form>
+

@@ -1,0 +1,82 @@
+﻿@model Movie
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>All Movies </h1>
+
+
+<div class="container ">
+    <div class="row">
+
+       
+            <div class="col-md-6 offset-2 g-5">
+
+                <div class="card">
+                    <div class="col-md-12 bg-success card-header">
+                        <h5 class="text-center text-white">@Model.Name</h5>
+
+                    </div>
+
+                    <div class="card-body">
+                    <div> <img src="~/Images/@Model.ImageUrl" class="w-100 rounded mx-auto" alt="@Model.Name"> </div>
+                    <p class="card-text "><b>Cinema:</b>
+                        <a asp-controller="Cinema" asp-action="Details" asp-route-id="@Model.CinemaId" class="text-decoration-none">
+                      @Model.Cinema.Name</a></p>
+                    <p class="card-text ">
+                        <b>Producer:</b>
+                        <a asp-controller="Producer" asp-action="Details" asp-route-id="@Model.ProducerId" class="text-decoration-none">
+                            @Model.Producer.FullName
+                        </a>
+                    </p>
+                    <p class="card-text "><b>Categry:</b>@Model.MovieCategory</p>
+                    <p class="card-text "><b>StartDate:</b> @Model.Startdate.ToString("dd MM yyy")</p>
+                    <p class="card-text "><b>EndDate:</b>@Model.EndData.ToString("dd MM yyy")</p>
+                        <p class="card-text ">
+                        <b>Status:</b>@if (DateTime.Now >= Model.Startdate && DateTime.Now <= Model.EndData)
+                            {
+                                <span class="badge bg-success text-white">Avalible</span>
+                            }
+                        else if (DateTime.Now > Model.EndData)
+                            {
+                                <span class="badge bg-danger text-white">Expired</span>
+                            }
+                            else
+                            {
+                                <span class="badge bg-primary text-white">UpComing</span>
+                            }
+                        </p>
+                    <p class="card-text ">
+                        <b>Actors:</b>
+                        <hr />
+                        <div class="row">
+                            @foreach (var actor in Model.Actor_Movies)
+                            {
+                                <div class="column text-center">
+                                    <img src="~/Images/@actor.Actor.ProfilePictureUrl" class="w-25 border-info rounded-circle" />
+                                    <br>
+                                    <a asp-controller="Actor" asp-action="Details" asp-route-id="@actor.ActorId">@actor.Actor.FullName</a>
+                                </div>
+                            }
+
+                        </div>
+                    </p>
+
+                    </div>
+                    <div class="col-md-12 d-flex justify-content-between">
+                    <a class="btn btn-outline-primary   @((DateTime.Now>Model.EndData?"disabled":""))" asp-controller="Orders" asp-action="AddItemToShoppingCart" asp-route-id="@Model.Id"><i class="fa-solid fa-cart-shopping"></i>Add to Cart(Price @Model.Price.ToString("c")</a>
+                    <a class="btn btn-success" asp-action="Index"><i class="fas fa-eye"></i> Back To List</a>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+    </div>
+</div>
+
+
+
+
+

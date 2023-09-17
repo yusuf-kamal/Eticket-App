@@ -1,0 +1,45 @@
+﻿@model Cinema
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<br />
+<br />
+<h1>Delete Cinema</h1>
+
+<br />
+<br />
+
+
+<form asp-action="Delete" enctype="multipart/form-data">
+
+  
+
+    <div class="mb-3">
+
+        <div class="align-middle text-center">
+           
+            <img src="~/Images/@Model.CinemaLogo" class="w-25 rounded-circle" />
+
+        </div>
+
+       
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"> Name</label>
+        <input asp-for="Name" class="form-control" aria-describedby="emailHelp" readonly>
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+
+
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label">Bio</label>
+        <input asp-for="Description" class="form-control" aria-describedby="emailHelp" readonly>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <input type="submit" value="Confirm Delete" class="btn btn-outline-danger" />
+
+    <a asp-action="Index" class="btn btn-light">Back To List</a>
+</form>

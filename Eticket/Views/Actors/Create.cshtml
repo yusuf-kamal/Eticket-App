@@ -1,0 +1,43 @@
+﻿@model Actor
+@{
+    ViewData["Title"] = "Create";
+}
+
+<br />
+<br />
+<h1>Add New Actor</h1>
+
+<br />
+<br />
+
+
+<form asp-action="Create" enctype="multipart/form-data">
+
+    
+
+    <div class="mb-3">
+
+        <div class="form-group">
+            <label class="col-form-label " asp-for="Image"> </label>
+            <input type="file" asp-for="Image" class="form-control" />
+        </div>
+
+     
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="FullName" class="form-label">Full Name</label>
+        <input asp-for="FullName" class="form-control"  aria-describedby="emailHelp">
+        <span asp-validation-for="FullName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Bio" class="form-label">Bio</label>
+        <input asp-for="Bio" class="form-control"  aria-describedby="emailHelp">
+        <span asp-validation-for="Bio" class="text-danger"></span>
+    </div>
+    <input type="submit" value="Submit" class="btn btn-primary" />
+    <a asp-action="Index" class="btn btn-light">Back To List</a>
+</form>
+
+   

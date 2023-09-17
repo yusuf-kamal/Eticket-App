@@ -1,0 +1,91 @@
+﻿@using Eticket.Data.Enum;
+
+@model NewMovieVM
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="col-md-8 offset-2">
+    <p>
+        <h4> Create New Movie</h4>
+    </p>
+    <div class="row">
+        <div class="col-md-8 offset-2">
+            <form asp-action="Create" enctype="multipart/form-data">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="row">
+
+                    <div class="col-md-6">
+                        <div class="mb-3">
+                            <label asp-for="Name" class="form-label"> Name</label>
+                            <input asp-for="Name" class="form-control">
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="Startdate" class="form-label"> Startdate</label>
+                            <input asp-for="Startdate"  class="form-control">
+                            <span asp-validation-for="Startdate" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="EndData" class="form-label"> EndData</label>
+                            <input asp-for="EndData" class="form-control">
+                            <span asp-validation-for="EndData" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Price" class="form-label"> Price</label>
+                            <input asp-for="Price" class="form-control">
+                            <span asp-validation-for="Price" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="Image" class="form-label"> Image</label>
+                            <input type="file" asp-for="Image" class="form-control" />
+                              <span asp-validation-for="Image" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+
+                        <div class="mb-3">
+                            <label asp-for="CinemaId" class="form-label"> CinemaId</label>
+                            <select asp-for="CinemaId" class="form-control" asp-items="ViewBag.Cinemas"></select>
+                            <span asp-validation-for="CinemaId" class="text-danger"></span>
+                        </div>
+                        <div class="mb-3">
+                            <label asp-for="MovieCategory" class="form-label"> MovieCategory</label>
+                            <select asp-for="MovieCategory" class="form-control" asp-items="Html.GetEnumSelectList<MovieCategory>()"></select>
+                            <span asp-validation-for="MovieCategory" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-3">
+                            <label asp-for="ProducerId" class="form-label"> ProducerId</label>
+                            <select asp-for="ProducerId" class="form-control" asp-items=" ViewBag.Producers"></select>
+                            <span asp-validation-for="ProducerId" class="text-danger"></span>
+                        </div> 
+                        
+                        <div class="mb-3">
+                            <label asp-for="ActorsId" class="form-label"> ActorsId</label>
+                            <select asp-for="ActorsId" class="form-control" asp-items=" ViewBag.Actors" ></select>
+                            <span asp-validation-for="ActorsId" class="text-danger"></span>
+                        </div>
+
+                    </div>
+                    <div class="mb-3 col-md-12">
+                        <label asp-for="Description" class="form-label"> Description</label>
+                        <textarea asp-for="Description" class="form-control"></textarea>
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>
+                  @*  <div class="col-md-4 offset-4">
+                        <img src="~/Images/@Model.ImageUrl" class="w-25 rounded-circle" />
+
+                    </div>*@
+                    
+                        <input type="submit" value="Create" class="btn btn-outline-success" />
+                        <a asp-action="Index" class="btn btn-outline-secondary">Show All</a>
+                    
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+

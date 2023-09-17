@@ -1,0 +1,45 @@
+﻿@model Cinema
+@{
+    ViewData["Title"] = "Update";
+}
+
+<br />
+<br />
+<h1>Update Cinema</h1>
+
+<br />
+<br />
+
+
+<form asp-action="Edit" enctype="multipart/form-data">
+
+    <div class="align-middle text-center">
+        
+              <img src="~/Images/@Model.CinemaLogo" class="w-25 rounded-circle" />
+
+    </div>
+
+    <div class="mb-3">
+
+        <div class="form-group">
+            <label class="col-form-label " asp-for="Image"> </label>
+            <input type="file" asp-for="Image" class="form-control" />
+        </div>
+
+
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"> Name</label>
+        <input asp-for="Name" class="form-control" aria-describedby="emailHelp">
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Description" class="form-label">Bio</label>
+        <input asp-for="Description" class="form-control" aria-describedby="emailHelp">
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+    <input type="submit" value="Submit" class="btn btn-primary" />
+    <a asp-action="Index" class="btn btn-light">Back To List</a>
+</form>
