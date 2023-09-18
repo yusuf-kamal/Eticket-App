@@ -1,0 +1,625 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Eticket.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Eticket.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\01ec020c-7804-4665-8b2a-707eb43a03b9movie-9.jpeg",
+      "PackagePath": "staticwebassets\\Images\\01ec020c-7804-4665-8b2a-707eb43a03b9movie-9.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\076c10e3-9487-4758-9c44-a06ce7716ce5movie-7.jpeg",
+      "PackagePath": "staticwebassets\\Images\\076c10e3-9487-4758-9c44-a06ce7716ce5movie-7.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\084e5928-5d00-485f-b609-351ca8ba386eproducer-5.jpeg",
+      "PackagePath": "staticwebassets\\Images\\084e5928-5d00-485f-b609-351ca8ba386eproducer-5.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\126042cc-94e1-4545-93a3-7ccf263a4139actor-2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\126042cc-94e1-4545-93a3-7ccf263a4139actor-2.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\12fdc82b-821c-4dca-8a53-1ad30785f9e0producer-5.jpeg",
+      "PackagePath": "staticwebassets\\Images\\12fdc82b-821c-4dca-8a53-1ad30785f9e0producer-5.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\1e593420-d1dc-4cae-bd2e-a6edc55ab67fproducer-1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\1e593420-d1dc-4cae-bd2e-a6edc55ab67fproducer-1.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\2f40d2e1-3ee2-4226-998c-c60536237c1dcinema-5.jpeg",
+      "PackagePath": "staticwebassets\\Images\\2f40d2e1-3ee2-4226-998c-c60536237c1dcinema-5.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\36ae89a9-2e02-4a36-8b79-8a4f2b4f09535d916b4a-ce6e-4971-b2a3-7e911d8d0da9.jpg",
+      "PackagePath": "staticwebassets\\Images\\36ae89a9-2e02-4a36-8b79-8a4f2b4f09535d916b4a-ce6e-4971-b2a3-7e911d8d0da9.jpg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\370d3691-c307-4358-b3ae-ec061626777dmovie-4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\370d3691-c307-4358-b3ae-ec061626777dmovie-4.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\39710226-cb78-4418-8a92-d9f07b58f954movie-2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\39710226-cb78-4418-8a92-d9f07b58f954movie-2.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\3d8661fb-b805-4c2a-915d-beb31c4332bamovie-6.jpeg",
+      "PackagePath": "staticwebassets\\Images\\3d8661fb-b805-4c2a-915d-beb31c4332bamovie-6.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\401bfb2d-0231-4530-a8cc-d090c68582cbactor-3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\401bfb2d-0231-4530-a8cc-d090c68582cbactor-3.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\43bf155c-fe49-46c8-b55e-20429f76ad49movie-9.jpeg",
+      "PackagePath": "staticwebassets\\Images\\43bf155c-fe49-46c8-b55e-20429f76ad49movie-9.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\526a0edb-85dd-46bf-be09-399ca0eec868actor-1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\526a0edb-85dd-46bf-be09-399ca0eec868actor-1.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\533fc1ec-5070-4340-a737-47ac12ecf51dmovie-4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\533fc1ec-5070-4340-a737-47ac12ecf51dmovie-4.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\5aa538eb-246a-484e-91ed-f0dd163042b1movie-10.jpeg",
+      "PackagePath": "staticwebassets\\Images\\5aa538eb-246a-484e-91ed-f0dd163042b1movie-10.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\649f30c8-5fe3-450b-b964-a4fae6d6c851producer-4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\649f30c8-5fe3-450b-b964-a4fae6d6c851producer-4.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\6521d07a-d793-49e6-a8ec-f87ba7a40832movie-8.jpeg",
+      "PackagePath": "staticwebassets\\Images\\6521d07a-d793-49e6-a8ec-f87ba7a40832movie-8.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\6799f350-93c2-4333-989a-3e6355b8593c.jpeg",
+      "PackagePath": "staticwebassets\\Images\\6799f350-93c2-4333-989a-3e6355b8593c.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\67d0c564-b6ab-4505-b286-4c348cacd27amovie-9.jpeg",
+      "PackagePath": "staticwebassets\\Images\\67d0c564-b6ab-4505-b286-4c348cacd27amovie-9.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\70607d58-d33b-43b5-893d-287b1785a5a1movie-5.jpeg",
+      "PackagePath": "staticwebassets\\Images\\70607d58-d33b-43b5-893d-287b1785a5a1movie-5.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\792d4fb0-4894-48e7-8eee-3316111b95a4movie-3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\792d4fb0-4894-48e7-8eee-3316111b95a4movie-3.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\7b175d52-1c73-40ac-b8b6-133bb9f5163c",
+      "PackagePath": "staticwebassets\\Images"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\7b93b764-adea-487a-a053-514ef5aaa443movie-9.jpeg",
+      "PackagePath": "staticwebassets\\Images\\7b93b764-adea-487a-a053-514ef5aaa443movie-9.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\83f7da3e-ad9a-4865-9a42-086847653eedcinema-1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\83f7da3e-ad9a-4865-9a42-086847653eedcinema-1.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\90a6b5b5-2861-422e-8fbd-a1288ac717a1movie-9.jpeg",
+      "PackagePath": "staticwebassets\\Images\\90a6b5b5-2861-422e-8fbd-a1288ac717a1movie-9.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\927cdec5-236d-42d3-afd5-686fa3c6706aproducer-2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\927cdec5-236d-42d3-afd5-686fa3c6706aproducer-2.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\9f1e3bfd-b7cb-4e7f-a060-dc7962dcda8ecinema-2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\9f1e3bfd-b7cb-4e7f-a060-dc7962dcda8ecinema-2.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\a8aefd93-de18-408b-80cf-ad9ddf432ee4producer-1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\a8aefd93-de18-408b-80cf-ad9ddf432ee4producer-1.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\a9b673ee-9058-43dc-8d69-b126a8e227c2actor-1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\a9b673ee-9058-43dc-8d69-b126a8e227c2actor-1.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\bd7fa9f3-93f1-470f-8ebe-66427b738263actor-5.jpeg",
+      "PackagePath": "staticwebassets\\Images\\bd7fa9f3-93f1-470f-8ebe-66427b738263actor-5.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\be9b0418-4a0f-4e2c-98e7-47917d82d16c5d916b4a-ce6e-4971-b2a3-7e911d8d0da9.jpg",
+      "PackagePath": "staticwebassets\\Images\\be9b0418-4a0f-4e2c-98e7-47917d82d16c5d916b4a-ce6e-4971-b2a3-7e911d8d0da9.jpg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\c0c3de35-5cd6-4c22-8389-938c29aa0693cinema-4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\c0c3de35-5cd6-4c22-8389-938c29aa0693cinema-4.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\c3cc0e62-c3b7-47c6-a0e1-8e17a89bf4bbcinema-3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\c3cc0e62-c3b7-47c6-a0e1-8e17a89bf4bbcinema-3.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\c491d5d4-a479-48cc-9d86-363113871928movie-1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\c491d5d4-a479-48cc-9d86-363113871928movie-1.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\c87b061a-23f1-4701-b25a-e7759ef9e7f45d916b4a-ce6e-4971-b2a3-7e911d8d0da9.jpg",
+      "PackagePath": "staticwebassets\\Images\\c87b061a-23f1-4701-b25a-e7759ef9e7f45d916b4a-ce6e-4971-b2a3-7e911d8d0da9.jpg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\ca994ad7-b563-4823-9698-88cdada9d3c25d916b4a-ce6e-4971-b2a3-7e911d8d0da9.jpg",
+      "PackagePath": "staticwebassets\\Images\\ca994ad7-b563-4823-9698-88cdada9d3c25d916b4a-ce6e-4971-b2a3-7e911d8d0da9.jpg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\d03bdb30-a283-4380-997d-ccd1601d7eeemovie-1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\d03bdb30-a283-4380-997d-ccd1601d7eeemovie-1.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\d70ae93e-1991-473a-ba55-6d07f96378edmovie-2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\d70ae93e-1991-473a-ba55-6d07f96378edmovie-2.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\e0ada8d5-9853-4ea5-a0e6-25d472cc5d185d916b4a-ce6e-4971-b2a3-7e911d8d0da9.jpg",
+      "PackagePath": "staticwebassets\\Images\\e0ada8d5-9853-4ea5-a0e6-25d472cc5d185d916b4a-ce6e-4971-b2a3-7e911d8d0da9.jpg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\e34201f4-a97a-4f95-901c-f0e5376b3976actor-4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\e34201f4-a97a-4f95-901c-f0e5376b3976actor-4.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\e98af389-5468-4c27-bee1-a5da2458f7b2movie-3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\e98af389-5468-4c27-bee1-a5da2458f7b2movie-3.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\ea52a839-9853-42fb-9f12-26fff5680801movie-10.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ea52a839-9853-42fb-9f12-26fff5680801movie-10.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\f00dc9da-47e2-42f5-9f60-d23b0c6cfe80movie-10.jpeg",
+      "PackagePath": "staticwebassets\\Images\\f00dc9da-47e2-42f5-9f60-d23b0c6cfe80movie-10.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\f82cc632-2969-407f-b621-5995d7456978movie-4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\f82cc632-2969-407f-b621-5995d7456978movie-4.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\Images\\fcb31440-a36d-4437-a580-6c3cd24646ccproducer-3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\fcb31440-a36d-4437-a580-6c3cd24646ccproducer-3.jpeg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\css\\AuthLayout.css",
+      "PackagePath": "staticwebassets\\css\\AuthLayout.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Ap.Net Projects\\Eticket\\Eticket\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Eticket.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Eticket.props",
+      "PackagePath": "build\\Eticket.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Eticket.props",
+      "PackagePath": "buildMultiTargeting\\Eticket.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Eticket.props",
+      "PackagePath": "buildTransitive\\Eticket.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
