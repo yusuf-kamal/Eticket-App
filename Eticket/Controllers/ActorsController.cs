@@ -79,8 +79,7 @@ namespace ETicket.Controllers
                 return BadRequest();
             try
             {
-                var imageUrl = actor.ProfilePictureUrl; 
-                DocumentSettings.DeletFile( "Images", imageUrl);
+              
 
 
                 await _IActorService.DeleteById(id);

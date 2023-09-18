@@ -70,11 +70,11 @@
         @section Scripts{
             <script src="https://www.paypalobjects.com/api/checkout.js"></script>
             <script>
-        let _total = '@Html.Raw(Model.ShoppingCartTottal.ToString("c"))';
+        let _total = '@Html.Raw(Model.ShoppingCartTottal.ToString("0.00"))';
                 paypal.Button.render({
                     env:'sandbox',
                     client:{
-                sandbox: 'AQYFSFsQyr_39e7_0w03TsXVCMgva_BKMoNEKI2cE1AuEDeONxYU1p6NK962DWuOZK1sOab64PdMac1-'
+                sandbox: 'ATUNYDHeXuXRqUcRnDDZdszFAV7FQkVyOCi3_8JbF-L0ZkoczdoHwJ3lQFR0RxuCEey26eLUIcnbGFYi'
                     },
                     locale:'en_US',
                      style: {

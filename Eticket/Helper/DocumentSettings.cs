@@ -19,10 +19,6 @@ namespace Eticket.Helper
             return fileName;
 
 
-
-
-
-
         }
         public static void DeletFile(string folderName, string fileName)
             {
